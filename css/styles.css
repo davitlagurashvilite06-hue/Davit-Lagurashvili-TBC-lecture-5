@@ -1,0 +1,225 @@
+nav a {
+  font-weight: 700;
+  font-size: 24px;
+  color: #8d81ff;
+}
+.selected li a {
+  color: #4e6fae;
+}
+.date {
+  width: 50px;
+  height: 50px;
+  background-color: #5012d5;
+  color: #84ff81;
+  font-size: 24px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.HTML {
+    width: 1052px;
+    height: 462px;
+    top: 287px;
+    left: 104px;
+    margin-bottom: 120px;
+    margin-left: 30px;
+}
+.description {
+    color: #4e6fae;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 100%;
+    margin-bottom: 20px;
+    white-space: pre-wrap;
+}
+.header {
+    color: #4e6fae;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-bottom: 20px;
+}
+.sec-img {
+    margin-bottom: 20px;
+}
+body {
+    line-height: 150%;
+}
+.social-section {
+    margin-bottom: 20px;
+    margin-right: 50px;
+}
+.month {
+    margin-bottom: 20px;
+    font-weight: 400;
+    width: 70px;
+    height: 34px;
+    font-size: 24px;
+    color: #8d81ff;
+}
+.contact-page {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-page h1 {
+    font-weight: 700;
+    font-size: 36px;
+    margin-bottom: 40px;
+}
+
+.contact-page p {
+    font-weight: 400;
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.contact-page p span:first-child {
+    color: gray;
+}
+.links {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 80px;
+    margin-bottom: 20px;
+    text-decoration: none;
+}
+.line {
+    display: inline-block;
+    align-self: middle;
+    height: 48px;
+    width: 2px;
+    background-color: #5012d5;
+}
+.social-icon {
+    margin-right: 41px;
+}
+.text1 img {
+    display: inline-block;
+    vertical-align: top;
+    width: 447px;
+}
+.text1 p {
+    display: inline-block;
+    vertical-align: top;
+    width: 778px;
+}
+section {
+    margin-bottom: 155px;
+}
+.text2 img {
+    display: inline-block;
+    vertical-align: top;
+    width: 447px;
+}
+.text2 p {
+    display: inline-block;
+    vertical-align: top;
+    width: 778px;
+}
+.text3 p {
+    width: 1021px;
+    height: 148px;
+}
+.news {
+    display: inline-block;
+    vertical-align: middle;
+    color: #4e6fae;
+    font-weight: 700;
+    width: 150px;
+    height: 34px;
+    margin-right: 10px;
+    font-size: 26px;
+    line-height: 100%;
+    margin-left: 30px;
+}
+.line2 {
+    display: inline-block;
+    vertical-align: middle;
+    height: 24px;
+    width: 2px;
+    background-color: #5012d5;
+    margin-right: 24px;
+}
+.details {
+    width: 484px;
+    height: 34px;
+    font-size: 26px;
+    font-weight: 400;
+    display: inline-block;
+    vertical-align: middle;
+    color: #4e6fae;
+}
+.box {
+    width: 500px;
+    height: 192px;
+    background-color:#E7E7E7;
+    margin-left: 30px;
+    margin-bottom: 93px;
+    padding: 21px 15px 32px 23px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 52px;
+    box-sizing: content-box;
+}
+.box h1 {
+    font-size: 20px;
+    color: #3F4145;
+    margin-bottom: 20px;
+}
+.box p {
+    width: 335px;
+    height: 95px;
+    display: inline-block;
+    font-size: 16px;
+    color: #7E8898;
+}
+.box img {
+    margin-right: 37px;
+    margin-left: 13px;
+}
+.box2 {
+    background-color: #E7E7E7;
+    width: 500px;
+    height: 192px;
+    padding: 21px 15px 32px 23px;
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: content-box;
+}
+.box2 img {
+    margin-left: 13px;
+    margin-right: 37px;
+}
+.box2 h1 {
+    font-size: 20px;
+    color: #3F4145;
+    margin-bottom: 20px;
+}
+.box2 p {
+    width: 335px;
+    display: inline-block;
+    font-size: 16px;
+    color: #7E8898;
+}
+.contactbox {
+    background-color: #E7E7E7;
+    width: 1660px;
+    height: 735px;
+    padding: 93px 40px 93px 162px;
+    margin-bottom: 106px;
+}
+.contactbox main {
+    display: inline-block;
+    vertical-align: top;
+}
+.contactbox iframe {
+    display: inline-block;
+    vertical-align: top;
+    width: 944px;
+    height: 549px;
+}
